@@ -1,10 +1,9 @@
-/*import poppins google font here via pressing ctrl+p then ">google" and select the css type, then type in font needed. works after installing google font extension*/
-
+@import url(https://fonts.googleapis.com/css?family=Poppins:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic);
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 
 body{
